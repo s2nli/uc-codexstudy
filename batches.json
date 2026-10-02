@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "achiever-8-0",
+      "name": "Achiever 8.0",
+      "byName": "Dedicated for SSC CGL Exams",
+      "previewImage": "assets/achiever-8-0.jpg",
+      "type": "E_BATCH",
+      "slug": "achiever-8-0",
+      "subBatches": []
+    }
+  ]
+}
